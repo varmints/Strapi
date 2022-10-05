@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_navbar_navbars",
+  "info": {
+    "displayName": "navbar",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Links": {
+      "displayName": "links",
+      "type": "component",
+      "repeatable": true,
+      "component": "links.links"
+    }
+  }
+}
